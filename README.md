@@ -9,8 +9,6 @@ I like to do web development and very curious to know about FRONT-END DEVELOPMEN
 
 <table align=center>
 <tr>
-<th></th>
-<th>Tools</th>
 </tr>
 <tr>
 <td><b>Languages</b></td>
