@@ -1,9 +1,9 @@
 
 <h1  align=center>Hi..<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"></a>, I'm <a  href='https://www.linkedin.com/in/utkarsh-kumar-907a9a149/'  target='_blank'>Utkarsh</a></h1>
 
-<p align=center>I am working as a Software engineer(frontend) at eSamudaay<br><br>
-I am proficient in HTML5, CSS3(FLEX-BOX), Bootstrap and Javascript. In the mean time I am also familiar with EJS, React, NodeJs, ExpressJs, NPM and use GIT for version control.<br>
-I like to do web development and very curious to know about FRONT-END DEVELOPMENT</p>
+<p align=center>I am working as a Software engineer(frontend) at 1bridge<br><br>
+I am proficient in Flutter. In the mean time I am also familiar with EJS, React, NodeJs, ExpressJs, NPM and use GIT for version control.<br>
+I like to do Mobile and Web app development</p>
 
 <br />
 
