@@ -1,9 +1,7 @@
 
 <h1  align=center>Hi..<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"></a>, I'm <a  href='https://www.linkedin.com/in/utkarsh-kumar-907a9a149/'  target='_blank'>Utkarsh</a></h1>
 
-<p align=center>I am working as a Software engineer(frontend) at 1bridge<br><br>
-I am proficient in Flutter. In the mean time I am also familiar with EJS, React, NodeJs, ExpressJs, NPM and use GIT for version control.<br>
-I like to do Mobile and Web app development</p>
+<p align=center>I am a Software Engineer II at Peliqan, currently building Skindr. <br>I specialize in Flutter development, crafting seamless and high-performance mobile applications.<br> Additionally, I am proficient in EJS, React, Node.js, Express.js, and NPM, and I use Git for efficient version control. <br>I have a strong background in mobile and web app development, consistently improving user experiences and optimizing performance.<br>With a passion for technology, business, and problem-solving, I thrive at the intersection of engineering, product development, and entrepreneurship.</p>
 
 <br />
 
