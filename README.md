@@ -1,7 +1,7 @@
 
 <h1  align=center>Hi..<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"></a>, I'm <a  href='https://www.linkedin.com/in/utkarsh-kumar-907a9a149/'  target='_blank'>Utkarsh</a></h1>
 
-<p align=center>
+<p>
 I'm a Software Engineer II at Peliqan, currently building Skindr — yes, it's as cool as it sounds, and no, it’s not a dating app for dermatologists (or is it?).<br><br>
 
 I mostly talk in Flutter and Firebase, sometimes mumble in Node.js and React. Git is my old friend — we’ve had our fights (especially during merge conflicts), but we always patch things up.<br><br>
