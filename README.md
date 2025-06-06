@@ -2,15 +2,17 @@
 <h1 >Hi..<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"></a>, I'm <a  href='https://www.linkedin.com/in/utkarsh-kumar-907a9a149/'  target='_blank'>Utkarsh</a></h1>
 
 <p>
-I'm a Software Engineer II at Peliqan, currently building Skindr — yes, it's as cool as it sounds, and no, it’s not a dating app for dermatologists (or is it?).<br><br>
+I'm a Software Engineer II at Peliqan, currently building Skindr — a platform revolutionizing dermatology by making expert skin care more accessible and efficient.<br><br>
 
-I mostly talk in Flutter and Firebase, sometimes mumble in Node.js and React. Git is my old friend — we’ve had our fights (especially during merge conflicts), but we always patch things up.<br><br>
+Working with a Belgium-based startup, I help build a platform where users receive a diagnosis and customized treatment plan — including prescriptions — from a personal dermatologist, usually within 48 hours. Skin problems? We fix them faster than you can say “pimple popper.”<br><br>
 
-I don't just build apps — I raise them. From their first crash to their first successful API call, I've seen them grow. I’ve argued with bugs at 3 AM and high-fived successful builds at 3:01.<br><br>
+I’m passionate about scalable tech solutions and specialize in Flutter & full-stack development, making sure apps run smoothly and users stay happy.<br><br>
 
-People call it “software engineering.” I call it “fixing things I broke yesterday… but elegantly.”<br><br>
+I mostly speak Flutter and Firebase, sometimes mumble in Node.js and React. Git is my old friend — we've had our battles (merge conflicts, anyone?), but we always patch things up.<br><br>
 
-Behind all the tech, there's a guy who just loves building things that work — fast, clean, and with a sprinkle of "yaar, yeh toh mast ban gaya." Whether it's startups, side projects, or shipping MVPs that barely survived the deadline — I’m in for the hustle.<br><br>
+I don’t just build apps — I raise them. I’ve argued with bugs at 3 AM and high-fived successful builds at 3:01.<br><br>
+
+Some call it software engineering. I call it “fixing things I broke yesterday… but elegantly.”<br><br>
 
 Tech, product, business — sabka dost, sabka coder.<br><br>
 
