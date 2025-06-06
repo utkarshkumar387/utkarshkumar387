@@ -1,48 +1,23 @@
 
 <h1  align=center>Hi..<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"></a>, I'm <a  href='https://www.linkedin.com/in/utkarsh-kumar-907a9a149/'  target='_blank'>Utkarsh</a></h1>
 
-<p align=center>I am a Software Engineer II at Peliqan, currently building Skindr. <br><br>I specialize in Flutter development, crafting seamless and high-performance mobile applications.<br><br> Additionally, I am proficient in EJS, React, Node.js, Express.js, and NPM, and I use Git for efficient version control.<br><br>I have a strong background in mobile and web app development, consistently improving user experiences and optimizing performance.<br><br>With a passion for technology, business, and problem-solving, I thrive at the intersection of engineering, product development, and entrepreneurship.</p>
+<p align=center>
+I'm a Software Engineer II at Peliqan, currently building Skindr — yes, it's as cool as it sounds, and no, it’s not a dating app for dermatologists (or is it?).<br><br>
+
+I mostly talk in Flutter and Firebase, sometimes mumble in Node.js and React. Git is my old friend — we’ve had our fights (especially during merge conflicts), but we always patch things up.<br><br>
+
+I don't just build apps — I raise them. From their first crash to their first successful API call, I've seen them grow. I’ve argued with bugs at 3 AM and high-fived successful builds at 3:01.<br><br>
+
+People call it “software engineering.” I call it “fixing things I broke yesterday… but elegantly.”<br><br>
+
+Behind all the tech, there's a guy who just loves building things that work — fast, clean, and with a sprinkle of "yaar, yeh toh mast ban gaya." Whether it's startups, side projects, or shipping MVPs that barely survived the deadline — I’m in for the hustle.<br><br>
+
+Tech, product, business — sabka dost, sabka coder.<br><br>
+
+Still figuring out life. But for now, Ctrl + S is my therapy.
+</p>
 
 <br />
-
-<table align=center>
-<tr>
-<td><b>Languages</b></td>
-<td align=center>
-    <img  src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg'  alt='html5'  height='30'> 
-    <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'  alt='css3'  height='30'> 
-    <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'  alt='javascript'  height='30'> 
-</td>
-</tr>
-<tr>
-<td><b>Libraries & Frameworks</b></td>
-<td align=center>
-    <img  src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'  alt='react js'  height='30'> 
-    <img  src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'  alt='node js'  height='30'> 
-    <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'  alt='express js'  width='30'> 
-    <img  src='https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg'  alt='jquery'  height='30'> 
-    <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg'  alt='bootstrap'  height='30'>
-    <img  src='https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png'  alt='materialui'  height='30'>  
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td align=center>
-    <img  src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg'  alt='visualstudiocode'  height='30'> 
-    <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'>
-    <img  src='https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png'  alt='heroku'  height='30'>
-</td>
-</tr>
-<tr>
-<td><b>Designing Tools</b></td>
-<td align=center>
-    <img  src='https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png'  alt='figma'  height='30'> 
-    <img  src='https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png'  alt='adobexd'  height='30'> 
-    <img  src='https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png'  alt='adobephotoshop'  height='30'> 
-    <img src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="adobeillustrator" height="30" />
-</td>
-</tr>
-</table>
 
 <hr />
 
